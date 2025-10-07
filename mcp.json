@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "TestMCP": {
+        "command": "python",
+        "args": [
+          "C:/Users/jinny/OneDrive/桌面/MCP_TEST/mcp_test.py"
+        ]
+      }    
+  }
+}
